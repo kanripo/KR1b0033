@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書義斷法
-#+DATE: 2015-09-23 09:36:08
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:02:53.062232
+#+PROPERTY: ID KR1b0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1b0033_WYG_000-1a>¶
 欽定四庫全書　　　　　經部二¶
 　書義斷法　　　　　　　書類¶
@@ -25,4 +27,3 @@
 　　　　此則從刪焉乾隆四十六年十月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-
